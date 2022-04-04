@@ -1,18 +1,18 @@
 #	Project Title : Student Report Card
 
-## Objective of the project : To generate report card based on the information provided by the student
+### Objective of the project : To generate report card based on the information provided by the student
 
 
-## Submitted By : Jahed Hasan
+### Submitted By : Jahed Hasan
 
 
 
 ## Introduction    
-    Student report card system project in C++ is a simple console application built without the use of graphics. In this project, users can perform typical report card related functions like adding a new student record and displaying, modifying, editing and deleting it. File handling has been effectively used to perform all these.       
+>Student report card system project in C++ is a simple console application built without the use of graphics. In this project, users can perform typical report card related functions like adding a new student record and displaying, modifying, editing and deleting it. File handling has been effectively used to perform all these.       
 
 
 ## Theory   
-    In this student report card project built with Object oriented programming. Here, I used Classes , Inheritance, Exception handling, File handling, Array etc.It’s full functional application. Users can simply insert user data, and make a progress report card.
+>In this student report card project built with Object oriented programming. Here, I used Classes , Inheritance, Exception handling, File handling, Array etc.It’s full functional application. Users can simply insert user data, and make a progress report card.
 
 ## Features of Student Report Card Project in C++:
 
@@ -68,16 +68,16 @@ made.
 ## Output Screens:
 
 ### #Menu
-    ![Menu](/images/menu.png)
+![Menu](/ss/menu.png)
 
 ### #Add record
-    ![Add Record](/images/addrecord.png)
+![Add Record](/ss/addrecord.png)
 
 ### #Display all student record
-    ![Display ALL](/images/displayall.png)
+![Display ALL](/ss/displayall.png)
 
 #### #Repord Card
-    ![Repor Card](/images/reportcard.png)
+![Repor Card](/ss/reportcard.png)
 
 
 
